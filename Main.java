@@ -7,7 +7,8 @@ class Fibon{
     int t;
     int n1=0,n2=1;
     int n3;
-    int r,sum=0,temp;  
+    int r,sum=0,temp; 
+    int b; 
 
 Fibon(int r){
     range=r;
